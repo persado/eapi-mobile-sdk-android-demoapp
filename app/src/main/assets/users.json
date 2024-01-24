@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Maria Rossi",
+        "city": "New York",
+        "country": "United States",
+        "gender": "Female",
+        "maritalStatus": "Married",
+        "loyaltyStatus": "Gold",
+        "accountStatus": "Active",
+        "currency": "USD",
+        "accountId": "472821",
+        "deviceType": "Mobile",
+        "browser": "Firefox"
+    },
+    {
+        "name": "John Williams",
+        "city": "Athens",
+        "country": "Greece",
+        "gender": "Other",
+        "maritalStatus": "Single",
+        "loyaltyStatus": "Bronze",
+        "accountStatus": "Active",
+        "currency": "EUR",
+        "accountId": "948716",
+        "deviceType": "Tablet",
+        "browser": "Chrome"
+    },
+    {
+        "name": "Juan Garcia",
+        "city": "London",
+        "country": "United Kingdom",
+        "gender": "Male",
+        "maritalStatus": "Widowed",
+        "loyaltyStatus": "Diamond",
+        "accountStatus": "Inactive",
+        "currency": "GBP",
+        "accountId": "173984",
+        "deviceType": "Mobile",
+        "browser": "Edge"
+    },
+    {
+        "name": "Susan Davis",
+        "city": "Sydney",
+        "country": "Australia",
+        "gender": "Female",
+        "maritalStatus": "Divorced",
+        "loyaltyStatus": "Bronze",
+        "accountStatus": "Active",
+        "currency": "AUD",
+        "accountId": "578394",
+        "deviceType": "Tablet",
+        "browser": "Chrome"
+    },
+    {
+        "name": "Anna Mueller",
+        "city": "Berlin",
+        "country": "Germany",
+        "gender": "Female",
+        "maritalStatus": "Single",
+        "loyaltyStatus": "None",
+        "accountStatus": "Active",
+        "currency": "EUR",
+        "accountId": "997204",
+        "deviceType": "Wearable",
+        "browser": "Firefox"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "Product 1",
+        "name": "Luxe Harmony Sofa",
+        "description": "Immerse yourself in unparalleled comfort with our Luxe Harmony Sofa. This modern masterpiece combines plush, velvet upholstery with sleek metal accents, creating a statement piece that redefines relaxation. Sink into the deep cushions and let the world fade away as you indulge in the perfect blend of style and coziness.",
+        "discountPrice": 925,
+        "msrp": 1250,
+        "rating": 4,
+        "itemType": "Sofa",
+        "category": "Living Room",
+        "imageUrl": "https://us-dmdemo.persadolabs.net/images/product-large-1.jpg"
+    },
+    {
+        "id": "Product 2",
+        "name": "Nordic Elegance Dining Table",
+        "description": "Elevate your dining experience with our Nordic Elegance Dining Table. Crafted from solid oak, this table exudes timeless charm and durability. The minimalist design is complemented by subtle details, making it a focal point in any dining room. Gather your loved ones and savor every meal in style.",
+        "discountPrice": 575,
+        "msrp": 895,
+        "rating": 5,
+        "itemType": "Dining table",
+        "category": "Dining Room",
+        "imageUrl": "https://us-dmdemo.persadolabs.net/images/product-item2.jpg"
+    },
+    {
+        "id": "Product 3",
+        "name": "Coastal Retreat Storage Cabinet",
+        "description": "Introducing the Coastal Retreat Storage Cabinet — a fusion of functionality and seaside charm. The distressed white finish and louvered doors transport you to a beachside cottage, while ample shelving provides space for both organization and display. Bring coastal vibes to your home while maintaining a clutter-free environment.",
+        "discountPrice": 275,
+        "msrp": 350,
+        "rating": 5,
+        "itemType": "Cabinet",
+        "category": "Storage",
+        "imageUrl": "https://images.pexels.com/photos/5705490/pexels-photo-5705490.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": "Product 4",
+        "name": "Urban Zen Writing Desk",
+        "description": "Unleash your creativity with the Urban Zen Writing Desk. This sleek and versatile piece seamlessly blends modern design with a touch of Zen inspiration. The rich walnut finish and geometric lines create an aesthetic workspace where innovation flourishes. Transform your office into a haven of focus and sophistication.",
+        "discountPrice": 495,
+        "msrp": 585,
+        "rating": 3,
+        "itemType": "Desk",
+        "category": "Home Office",
+        "imageUrl": "https://us-dmdemo.persadolabs.net/images/product-item9.jpg"
+    },
+    {
+        "id": "Product 5",
+        "name": "Adventure Haven Bunk Bed",
+        "description": "Create a world of adventure for your little ones with the Adventure Haven Bunk Bed. Crafted from sturdy pine, this bed features a playful tent canopy and built-in ladder, turning bedtime into a thrilling escapade. Maximize space without compromising on style, and watch as bedtime becomes the highlight of the day.",
+        "discountPrice": 955,
+        "msrp": 1125,
+        "rating": 4,
+        "itemType": "Bunk bed",
+        "category": "Kids' Furniture",
+        "imageUrl": "https://images.pexels.com/photos/7031873/pexels-photo-7031873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": "Product 6",
+        "name": "Urban Elegance Coat Rack",
+        "description": "Introducing the Urban Elegance Coat Rack — a fusion of form and function. This stylish piece combines a minimalist design with practicality, offering multiple hooks and shelves to organize your outerwear in style. Say goodbye to clutter and make a statement in your entryway with this chic coat rack.",
+        "discountPrice": 95,
+        "msrp": 125,
+        "rating": 5,
+        "itemType": "Coat rack",
+        "category": "Entryway",
+        "imageUrl": "https://images.pexels.com/photos/18200915/pexels-photo-18200915/free-photo-of-a-contemporary-changing-room.jpeg"
+    },
+    {
+        "id": "Product 7",
+        "name": "Professional Black Sofa Set",
+        "description": "Introducing the sleek and sophisticated Professional Black Sofa Set. Crafted with premium materials, this contemporary masterpiece features a lustrous black finish that exudes elegance. The plush cushions and ergonomic design ensure optimal comfort, making it perfect for both professional settings and cozy living spaces. Elevate your decor with this timeless addition that effortlessly blends style and functionality.",
+        "discountPrice": 1199,
+        "msrp": 1569,
+        "rating": 5,
+        "itemType": "Sofa",
+        "category": "Work space",
+        "imageUrl": "https://us-dmdemo.persadolabs.net/images/product-item1.jpg"
+    }
+]

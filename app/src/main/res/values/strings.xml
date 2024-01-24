@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Persado SDK Example</string>
+
+    <string name="title_products">Products</string>
+    <string name="title_select_profile">Select a customer profile</string>
+    <string name="title_shopping_cart">Shopping Cart</string>
+
+    <string name="button_back">Back</string>
+    <string name="button_done">Done</string>
+    <string name="button_add_to_cart">Add to Cart</string>
+    <string name="button_continue_shopping">Continue Shopping</string>
+    <string name="button_checkout">Check out</string>
+    <string name="button_cta">Complete Purchase</string>
+    <string name="button_back_to_shop">Back to shop</string>
+
+    <string name="profile_category_personal"><![CDATA[Personal & Demographic]]></string>
+    <string name="profile_category_customer_segment">Customer Segment</string>
+    <string name="profile_category_account"><![CDATA[Account & Transactional]]></string>
+    <string name="profile_category_device"><![CDATA[Device & Platform Information]]></string>
+    <string name="profile_city">City</string>
+    <string name="profile_country">Country</string>
+    <string name="profile_gender">Gender</string>
+    <string name="profile_marital_status">Marital status</string>
+    <string name="profile_loyalty_status">Loyalty status</string>
+    <string name="profile_account_status">Account status</string>
+    <string name="profile_currency">Currency</string>
+    <string name="profile_account_id">Account ID</string>
+    <string name="profile_device_type">Device type</string>
+    <string name="profile_browser">Browser</string>
+
+    <string name="txt_added_to_cart">Product added to cart!</string>
+    <string name="txt_message_interested">You might be interested in these products:</string>
+    <string name="txt_sub_total">Subtotal</string>
+    <string name="txt_shipping">Shipping</string>
+    <string name="txt_total">Total</string>
+    <string name="txt_empty_cart">Your cart is empty.</string>
+    <string name="txt_order_success">Order placed successfully!</string>
+    <string name="txt_estimated_delivery">Estimated delivery:</string>
+    <string name="txt_order_number">Order #%1$s</string>
+
+</resources>
